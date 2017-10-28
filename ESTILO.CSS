@@ -1,5 +1,5 @@
-a{
-	color: red;
+a{ 
+	color: red;<!
 	text-decoration: none;
 	font-family: arial;
 	font-size: 14px;
@@ -11,5 +11,7 @@ h1{
 	font-family: arial;
 	font-size: 14px;
 	}
-
+.link{
+	color: red;
+}
 			
