@@ -1,4 +1,3 @@
-
 h1{
 	color: white;
 	text-decoration: none;
@@ -11,4 +10,9 @@ h1{
 		color: blue;
 	}
 
-		
+   .corpo
+  {
+  	margin: auto;
+  	width: 960px;
+  	
+  }
