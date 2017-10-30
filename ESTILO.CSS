@@ -12,7 +12,8 @@ h1{
 
    .corpo
   {
-  	margin: auto;
+  	flex-direction: row;
+  	display: flex;
   	width: 960px;
   	
   }
