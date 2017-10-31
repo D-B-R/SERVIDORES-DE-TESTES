@@ -1,0 +1,104 @@
+body, header, footer
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+nav.navbar.navbar-default
+{
+  /*background-color: orange;*/
+  height: 70px;
+  position: fixed;
+  width: 100%;
+  z-index: 999999999999;
+}
+
+a.navbar-brand
+{
+  padding: 0;
+  margin-top: 2%;
+  width: 150px;
+}
+
+#logo
+{
+  width: 100px;
+  margin-left: 3%;
+}
+
+#hov
+{
+  font-size: 130%;
+  margin-top: 10px;
+  color:black;
+  font-family: "Microsoft sans serif";
+  text-decoration: underline;
+}
+
+#hov:hover
+{
+  text-transform: uppercase;
+  font-size: 150%;
+}
+
+#tempo, #time
+{
+  font-size: 130%;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.cor-fundo
+{
+  background-color: #696969;
+  height: 100%;
+  color:white;
+  text-align: justify;
+  text-indent: 4px;
+  margin-top: 3.5%;
+  font-size: 130%;
+  list-style-type: disc;
+  font-family: "Microsoft sans serif";
+}
+
+#tit
+{
+  text-align: center;
+  color:gold;
+  padding:15px 0px;
+
+}
+
+#titulo
+{
+  color:gold;
+  font-size: 120%;
+  list-style-type: none;
+}
+
+#content-no-disc
+{
+  list-style-type: square;
+}
+
+.conteudo
+{
+  line-height: normal;
+}
+
+.rodape, #autor
+{
+  text-align: center;
+  font-size: 130%;
+  font-weight: bold;
+  padding: 10px 0px;
+}
+
+span:hover
+{
+  text-decoration: underline;
+}
